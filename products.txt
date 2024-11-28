@@ -1,0 +1,7 @@
+Potato, 50.5, Vegetables
+Spaghetti, 3.4, Groceries
+Potato, 5.5, Vegetables
+ Продукт уже есть в магазине
+ Продукт уже есть в магазине
+ Продукт уже есть в магазине
+Apple, 3, Fruit
